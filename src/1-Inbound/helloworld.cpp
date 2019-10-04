@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "namePrinter.h"
+#include "../2-Core/namePrinter.h"
 
 using namespace std;
 

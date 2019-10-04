@@ -21,7 +21,8 @@
                 "${workspaceFolder}\\bin\\main.exe",
 
                 // Source
-                "src\\*.cpp",
+                "src\\2-Core\\*.cpp",
+                "src\\1-Inbound\\*.cpp",
 
                 // Linker Flags
                 "/link"
