@@ -1,0 +1,7 @@
+C:/Workspace/testCmake/build/CMakeFiles/INSTALL.dir
+C:/Workspace/testCmake/build/CMakeFiles/ALL_BUILD.dir
+C:/Workspace/testCmake/build/CMakeFiles/ZERO_CHECK.dir
+C:/Workspace/testCmake/build/src/CMakeFiles/INSTALL.dir
+C:/Workspace/testCmake/build/src/CMakeFiles/main.dir
+C:/Workspace/testCmake/build/src/testLib/CMakeFiles/testLib.dir
+C:/Workspace/testCmake/build/src/testLib/CMakeFiles/INSTALL.dir

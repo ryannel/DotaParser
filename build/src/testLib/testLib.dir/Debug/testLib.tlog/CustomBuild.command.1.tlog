@@ -1,0 +1,10 @@
+^C:\WORKSPACE\TESTCMAKE\SRC\TESTLIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Workspace/testCmake -BC:/Workspace/testCmake/build --check-stamp-file C:/Workspace/testCmake/build/src/testLib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
