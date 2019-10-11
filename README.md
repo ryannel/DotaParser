@@ -71,6 +71,13 @@ You can view a all supported triplets by executing `vcpkg help triplet` from you
 
 ## Dependencies
 Please execute the following:
-`vcpkg install sqlite3:x64-windows`
+* `vcpkg install protobuf:x64-windows`
+* `vcpkg install snappy:x64-windows`
 
+boost-iostreams
+boost-exception
+boost-functional
+boost-lexical_cast
+boost-utility
+boost-core
 
