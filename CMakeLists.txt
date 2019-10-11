@@ -32,7 +32,6 @@ find_package(sqlite3 REQUIRED)
 INCLUDE_DIRECTORIES(${SQLite3_INCLUDE_DIRS})
 LINK_DIRECTORIES(${SQLite3_LIBRARY_DIRS})
 
-
 #
 # Add Build Targets
 #
